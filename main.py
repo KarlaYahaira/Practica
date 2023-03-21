@@ -1,18 +1,9 @@
-# This is a sample Python script.
-
-# Press Mayús+F10 to execute it or replace it with your code.
-# Press Double Shift to search everywhere for classes, files, tool windows, actions, and settings.
-
-
-def print_hi(name):
-    # Use a breakpoint in the code line below to debug your script.
-    print(f'Hi, {name}')  # Press Ctrl+F8 to toggle the breakpoint.
+def mostrar_menu():
+    print("1. Generar número aleatorio")
+    print("2. Calcular el promedio de una lista de números")
+    print("3. Verificar si un número es primo")
+    print("4. Ordenar una lista de números de forma ascendente")
+    print("5. Multiplicar dos matrices")
+    print("6. Salir")
 
 
-# Press the green button in the gutter to run the script.
-if __name__ == '__main__':
-    print_hi('PyCharm')
-    print_hi('Karla')
-
-
-# See PyCharm help at https://www.jetbrains.com/help/pycharm/
